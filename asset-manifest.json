@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/vrb-test-task/static/js/main.0961c61c.js",
+    "static/media/defaultImages.jpg": "/vrb-test-task/static/media/defaultImages.c42e9b04f5a13c341e74.jpg",
+    "index.html": "/vrb-test-task/index.html",
+    "main.0961c61c.js.map": "/vrb-test-task/static/js/main.0961c61c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0961c61c.js"
+  ]
+}
